@@ -1,3 +1,7 @@
+# Emparejamiento óptimo de mentores
+
+![Ilustración del emparejamiento óptimo entre mentores y mentorizados](docs/emparejamiento-mentores.png)
+
 ## 1. Archivos de entrada
 
 - `mentores.xlsx` 
